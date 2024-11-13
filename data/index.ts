@@ -207,7 +207,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/dee0017",
+    link: "https://github.com/hiamjether",
   },
   {
     id: 2,
