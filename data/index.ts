@@ -78,7 +78,7 @@ export const projects = [
     des: "Explore the wonders of My portfolio with Three.js.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "https://3d-portfolio-ten-dun.vercel.app/",
   },
   {
     id: 2,
