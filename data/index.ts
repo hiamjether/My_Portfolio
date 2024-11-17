@@ -109,33 +109,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jayden's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jayden is the ideal partner.",
-    name: "Michael Icesik",
-    title: "Director of COD Drills",
+      "The team at Jether Technology built an amazing online ordering system for my restaurant. It’s intuitive, reliable, and beautifully designed. My customers love it, and it’s boosted my sales significantly. Thank you, Jether Technology!",
+    name: "Anita Okeke",
+    title: "Owner, Taste Delight Restaurant",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Jether Technology's cybersecurity services were a lifesaver for our company. We had serious concerns about data protection, but their team implemented robust solutions that gave us peace of mind. Their expertise is unmatched!",
+    name: "Ahmed Bashir",
+    title: "Director, GreenTech Solutions",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Jether Technology transformed my blogging platform into a professional, fast-loading site. Their team guided me through the entire process and provided incredible support even after the project was completed. My audience engagement has doubled!",
+    name: "Emily Roberts",
+    title: "Blogger, TravelTales",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Jether Technology has been a game-changer for my business. Their web design team crafted a stunning, user-friendly website that perfectly reflects my brand. The SEO improvements they implemented have drastically increased my online visibility. Highly recommended!",
+    name: "Sarah Johnson",
+    title: "CEO, Luxe Interiors",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "I approached Jether Technology for a custom app for my fitness business, and they delivered beyond my expectations. Their attention to detail and commitment to deadlines were impressive. My clients love the app, and it's made managing my business so much easier.",
+    name: "Michael Adeyemi ",
+    title: "Founder, SmartFit Nigeria",
   },
 ];
 
